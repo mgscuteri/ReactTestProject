@@ -1,0 +1,12 @@
+React Notes
+
+
+Components:
+-----------
+- Components have a Render() method
+- Contents of Render() method are JSX(sort of html), and get converted to 
+React/Javascript during build. 
+- Component takes parameter called props. which contains data
+- JSX type html allows for javascript expressions within {}
+
+	
